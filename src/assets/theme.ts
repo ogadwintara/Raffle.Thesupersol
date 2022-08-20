@@ -43,7 +43,7 @@ const theme = ({ device }: { device: DeviceType }) =>
       background: {
         paper: '#212225',
         default:
-          'linear-gradient(0deg, rgba(57,9,74,1) 0%, rgba(6,18,98,1) 100%, rgba(57,9,74,1) 100%);',
+          'linear-gradient(0deg, #0f0f0f 0%, rgba(6,18,98,1) 100%, #0f0f0f 100%);',
       },
       primary: {
         main: PRIMARY_COLOR,
