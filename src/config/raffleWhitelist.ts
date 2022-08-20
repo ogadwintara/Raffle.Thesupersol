@@ -116,6 +116,16 @@ const testWhitelist = new Map<string, RaffleMetaData>([
     },
   ],
   [
+    'xNeVqAtyMyK9WPSgZPfa4CG4xRuSWUwiJjFbfXdzVeg',
+    {
+      name: 'THESUPERSOL REVEAL PRIZE 30 NFT',
+//      overviewImageUri: 'https://bafybeiaclj2dyfvm27kdwh2yhvdr77wnpdum6ccyd6outymxv527dchvna.ipfs.nftstorage.link/391.png?ext=png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//      ],
+    },
+  ],
+  [
     'Fbi7Xnve6wWkey244pVTkUZess6Wq3YoJFXHMPb89tCM',
     {
       name: '1000 $TSOS',
@@ -125,16 +135,16 @@ const testWhitelist = new Map<string, RaffleMetaData>([
 //      ],
     },
   ],
-//  [
-//    'SCVbXpQZGPevST9QYi9UoeNhuDNBNp2D3VXbtMMF7H3',
-//    {
-//      name: 'TheSuperSOL #17',
+  [
+    '9aRm2CGQkDuo7nW7w3aApycfJ9cv3hDTcAdEnm3C4GVs',
+    {
+      name: 'THESUPERSOL REVEAL PRIZE 30 NFT',
 //      overviewImageUri: '/resources/001-mainnet-launch.gif',
 //      alternatePurchaseMints: [
 //        new PublicKey('So11111111111111111111111111111111111111112'),
-//      ],
-//    },
-//  ],
+//     ],
+    },
+  ],
 ]);
 
 const prodWhitelist = new Map<string, RaffleMetaData>([

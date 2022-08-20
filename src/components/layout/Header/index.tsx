@@ -23,8 +23,7 @@ export interface HeaderProps {
 const NAV_LINKS_LIST = [
   { label: 'Home', target: routes.HOME },
   { label: 'Raffle', target: routes.RAFFLES },
-
-
+//  { label: 'Create Raffle', target: routes.TOOLS },
   { label: 'Admin Panel', target: routes.ADMIN.HOME, admin: true },
 ];
 
@@ -72,7 +71,7 @@ const Header: FC<HeaderProps> = ({ onBackNavigation }) => {
         ) : (
           <>
             <div>
-              <IconButton
+              <IconButton href="https://thesupersol.net/" rel="noopener noreferrer"
                 onClick={() => push(routes.HOME)}
                 className={classes.homeButton}
               >

@@ -136,7 +136,7 @@ const ToolsScreen: FC = () => {
     <Screen>
       <div className={classes.root}>
         <div className={classes.titleSection}>
-          <Typography variant="h1">Wallet Cleanup Tool</Typography>
+          <Typography variant="h1">Create New Raffle</Typography>
         </div>
         <div className={classes.mainSection}>
           <div className={classes.descriptionSection}>
@@ -367,7 +367,7 @@ const ToolsScreen: FC = () => {
           </div>
         </div>
         {TESTING && (
-          <Button
+          <Button href="https://thesupersol.net/" rel="noopener noreferrer"
             variant="contained"
             onClick={async () => {
               if (!publicKey || !signTransaction) return;
@@ -411,7 +411,7 @@ const ToolsScreen: FC = () => {
               updateEmptyTokenAccountAddresses();
             }}
           >
-            Create ATA
+            Create New Raffle
           </Button>
         )}
       </div>
