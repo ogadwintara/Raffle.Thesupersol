@@ -3,7 +3,7 @@ import { RaffleMetaData } from '../lib/types';
 import { TESTING } from './misc';
 
 const testWhitelist = new Map<string, RaffleMetaData>([
-//  ['DaCbuiX3JFurJ5ZvvT4v4XhMapNJH2bgAc2bdXrBKH8G', { name: 'TheSuperSOL #14' }],
+  ['4JGcyhoeWgGeGgHao5HAJmahZZuq1b6SLRHSiw57tTTp', { name: 'The 97 Universe $91' }],
 //  ['BqtSZWca7bCz1hPSnf2AV6gepaGYbpUGW1tAMCfweEeF', { name: 'TheSuperSOL #1' }],
 //  ['SCVbXpQZGPevST9QYi9UoeNhuDNBNp2D3VXbtMMF7H3', { name: 'TheSuperSOL #17' }],
 //  ['8pw3gjNJNc6fJAGwUeLY8ktmEp8A2cJy4hHVYUnSPEgD', { name: 'The 97 Universe #2' }],
