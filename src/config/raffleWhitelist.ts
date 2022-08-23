@@ -156,6 +156,16 @@ const testWhitelist = new Map<string, RaffleMetaData>([
     },
   ],
   [
+    '7VaNZ1tHpJanMoF1jFDVqGsC74CQ6j7bJNNMaFLzNFTu',
+    {
+      name: 'TheSuperSOL 9 WL',
+      overviewImageUri: '/resources/unreveal.png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//      ],
+    },
+  ],
+  [
     '9aRm2CGQkDuo7nW7w3aApycfJ9cv3hDTcAdEnm3C4GVs',
     {
       name: 'THESUPERSOL REVEAL PRIZE 30 NFT',
