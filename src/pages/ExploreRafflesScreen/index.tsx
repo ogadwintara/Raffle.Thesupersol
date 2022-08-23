@@ -43,7 +43,7 @@ const ExploreRafflesScreen: FC = () => {
     return (
       <>
         <Typography variant="h1" className={classes.titleBar}>
-          TheSuperSOL Raffles
+          THESUPERSOL RAFFLES
         </Typography>
         <div className={classes.mainContent}>
           <CircularProgress color="secondary" />
@@ -55,10 +55,10 @@ const ExploreRafflesScreen: FC = () => {
     return (
       <>
         <Typography variant="h1" className={classes.titleBar}>
-        TheSuperSOL Raffles
+        THESUPERSOL RAFFLES
         </Typography>
         <Typography variant="h4" className={classes.mainContent}>
-          Tss Raffle will be coming soon!
+          TheSuperSOL Raffle will be coming soon!
         </Typography>
       </>
     );
@@ -66,7 +66,7 @@ const ExploreRafflesScreen: FC = () => {
   return (
     <>
       <Typography variant="h1" className={classes.titleBar}>
-      TheSuperSOL Raffles
+      THESUPERSOL RAFFLES
       </Typography>
       <FilterBar
         hideEndedRaffles={hideEndedRaffles}
@@ -92,7 +92,7 @@ const ExploreRafflesScreen: FC = () => {
         </Grid>
       ) : (
         <Typography variant="h4" className={classes.mainContent}>
-          No Tss Raffle to display.
+          No TheSuperSOL Raffle to display.
         </Typography>
       )}
     </>

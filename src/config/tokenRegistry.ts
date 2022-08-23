@@ -18,18 +18,18 @@ const tokenRegistry = {
       imageURI: '/resources/solana-logo.gif',
     },
   },
-  zRpVjG5wMWrNhpTtSiGMz9iBaMTQDdaVGCFLmYqCs4U: {
+  DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ: {
     chainId: 101,
-    address: 'zRpVjG5wMWrNhpTtSiGMz9iBaMTQDdaVGCFLmYqCs4U',
-    symbol: 'TT',
-    name: 'TEST TOKEN',
-    decimals: 6,
+    address: 'DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ',
+    symbol: 'DUST',
+    name: 'DUST Protocol',
+    decimals: 9,
     logoURI:
-      'https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv/logo.png',
+      'https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ/logo.jpg',
     tags: [],
     extensions: {
-      website: 'https://sollama.finance',
-      twitter: 'https://twitter.com/SollamaFinance',
+      website: 'https://docs.dustprotocol.com/',
+      twitter: 'https://twitter.com/degodsnft',
     },
   },
   '72UgZ7avdJZBbv3wR7hbWcFy6dyHHNAoJw7CimGA55Zh': {

@@ -3,7 +3,7 @@ import { RaffleMetaData } from '../lib/types';
 import { TESTING } from './misc';
 
 const testWhitelist = new Map<string, RaffleMetaData>([
-  ['4JGcyhoeWgGeGgHao5HAJmahZZuq1b6SLRHSiw57tTTp', { name: 'The 97 Universe $91' }],
+//  ['2tyFcRqu4dThVJnCsHELjLmaHXvyGmghVtRdT9Bs7Drw', { name: 'TheSuperSOL 3 wl' }],
 //  ['BqtSZWca7bCz1hPSnf2AV6gepaGYbpUGW1tAMCfweEeF', { name: 'TheSuperSOL #1' }],
 //  ['SCVbXpQZGPevST9QYi9UoeNhuDNBNp2D3VXbtMMF7H3', { name: 'TheSuperSOL #17' }],
 //  ['8pw3gjNJNc6fJAGwUeLY8ktmEp8A2cJy4hHVYUnSPEgD', { name: 'The 97 Universe #2' }],
@@ -130,6 +130,26 @@ const testWhitelist = new Map<string, RaffleMetaData>([
     {
       name: '1000 $TSOS',
 //      overviewImageUri: 'https://bafybeiaclj2dyfvm27kdwh2yhvdr77wnpdum6ccyd6outymxv527dchvna.ipfs.nftstorage.link/391.png?ext=png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//      ],
+    },
+  ],
+  [
+    'GoEDBB72X9eBBmrntrn9JQmoqJEHpbxx3jHvm3yEF1W8',
+    {
+      name: 'TheSuperSOL 6 WL',
+//      overviewImageUri: 'https://bafybeiaclj2dyfvm27kdwh2yhvdr77wnpdum6ccyd6outymxv527dchvna.ipfs.nftstorage.link/391.png?ext=png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//      ],
+    },
+  ],
+  [
+    '2tyFcRqu4dThVJnCsHELjLmaHXvyGmghVtRdT9Bs7Drw',
+    {
+      name: 'TheSuperSOL 3 WL',
+      overviewImageUri: '/resources/unreveal.png',
 //      alternatePurchaseMints: [
 //        new PublicKey('So11111111111111111111111111111111111111112'),
 //      ],
