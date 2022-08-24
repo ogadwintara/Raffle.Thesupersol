@@ -175,6 +175,16 @@ const testWhitelist = new Map<string, RaffleMetaData>([
 //     ],
     },
   ],
+  [
+    'J9zV6QbJhgwWmCAHCioS5dFLibsZ8GsrnmNTK52ckhAx',
+    {
+      name: 'THESUPERSOL PRIZE 5 NFT',
+//      overviewImageUri: '/resources/001-mainnet-launch.gif',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//     ],
+    },
+  ],
 ]);
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
