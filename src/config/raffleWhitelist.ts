@@ -185,6 +185,16 @@ const testWhitelist = new Map<string, RaffleMetaData>([
 //     ],
     },
   ],
+  [
+    '3yN96n5yqWGT6MNZg8z4M8SfQG5okF4bgNgGuuLwvmRp',
+    {
+      name: 'THESUPERSOL WL 15',
+      overviewImageUri: '/resources/unreveal.png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//     ],
+    },
+  ],
 ]);
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
