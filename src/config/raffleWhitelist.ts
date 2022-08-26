@@ -29,7 +29,7 @@ const testWhitelist = new Map<string, RaffleMetaData>([
     'D4K3ToJ7pcPaFfxAP1PqrWa9JpoaoyGijC26P4pShQ3J',
     {
       name: '3-NFT Rakkudos',
-      overviewImageUri: '/resources/RAKUDOS-RAFFLE-PRIZE-3-NFT.png',
+      overviewImageUri: 'https://raw.githubusercontent.com/ogadwintara/SOSTOKEN/main/RAKUDOS-RAFFLE-PRIZE-3-NFT.png',
 //      alternatePurchaseMints: [
 //        new PublicKey('So11111111111111111111111111111111111111112'),
 //      ],
