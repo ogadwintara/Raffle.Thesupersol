@@ -4,17 +4,6 @@ import { TESTING } from './misc';
 
 const testWhitelist = new Map<string, RaffleMetaData>([
 //  ['2tyFcRqu4dThVJnCsHELjLmaHXvyGmghVtRdT9Bs7Drw', { name: 'TheSuperSOL 3 wl' }],
-//  ['BqtSZWca7bCz1hPSnf2AV6gepaGYbpUGW1tAMCfweEeF', { name: 'TheSuperSOL #1' }],
-//  ['SCVbXpQZGPevST9QYi9UoeNhuDNBNp2D3VXbtMMF7H3', { name: 'TheSuperSOL #17' }],
-//  ['8pw3gjNJNc6fJAGwUeLY8ktmEp8A2cJy4hHVYUnSPEgD', { name: 'The 97 Universe #2' }],
-//  ['BUZwRhhREXFsA3fysmPhTimPBtViQ5mF9ZUHsUndmtH3', { name: 'The 97 Universe #91' }],
-//  ['dZ1V9awzQNVRAxDURkivGX98D49nnoV3BcC16aiRCHV', { name: 'TheSuperSOL Token' }],
-//  ['DuXQXfkASwRTXRRsspRnQSyBBj1zdRiErUwh7aM4rJKY', { name: 'TheSuperSOL Token #2' }],
-//  ['Fbi7Xnve6wWkey244pVTkUZess6Wq3YoJFXHMPb89tCM', { name: '$1000 TSOS' }],
-//  ['D75CkLPGdmyCmqi7isBPpQ4E2HExEfZGsjHar8MdjMSX', { name: 'TheSuperSOL TICKET' }],
-//  ['G8MYUG2VDnuJKHu1icVjHWcoNDMLpACdjCu4uveyAFw7', { name: ' Reveal TheSuperSOL 3 NFT ' }],
-
-
   [
     '7W3o5w1KEta5fwhpkpS1U2q7GVKoyJ1i6QR5PsBY5xrJ  ',
     {
