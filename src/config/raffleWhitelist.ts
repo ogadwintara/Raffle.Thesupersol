@@ -4,55 +4,48 @@ import { TESTING } from './misc';
 
 const testWhitelist = new Map<string, RaffleMetaData>([
 //  ['2tyFcRqu4dThVJnCsHELjLmaHXvyGmghVtRdT9Bs7Drw', { name: 'TheSuperSOL 3 wl' }],
+
   [
-    '7W3o5w1KEta5fwhpkpS1U2q7GVKoyJ1i6QR5PsBY5xrJ  ',
+    '7W3o5w1KEta5fwhpkpS1U2q7GVKoyJ1i6QR5PsBY5xrJ',
     {
       name: 'Vandal #9423',
       overviewImageUri: 'https://storage.googleapis.com/vc-metadata.appspot.com/images/9423.png',
-      alternatePurchaseMints: [
-//        new PublicKey('So11111111111111111111111111111111111111112'),
-      ],
-    },
-  ],
-  [
-    'HNscf22XXDPt82omw8sYSHAoiqPovm6ZSziD7MGwwv4j  ',
-    {
-      name: 'Primate #960',
-      overviewImageUri: 'https://bafybeigm2dtupeo4aytbpg5w2zk2fd4x6hvd6bpqc74ono5ud3nfbf24by.ipfs.nftstorage.link/959.png?ext=png',
-      alternatePurchaseMints: [
-//        new PublicKey('So11111111111111111111111111111111111111112'),
-      ],
-    },
-  ],
-  [
-    'D4K3ToJ7pcPaFfxAP1PqrWa9JpoaoyGijC26P4pShQ3J  ',
-    {
-      name: '3-NFT Rakkudos ',
-      overviewImageUri: '/resources/RAKUDOS-RAFFLE-PRIZE-3-NFT.png',
-      alternatePurchaseMints: [
-//        new PublicKey('So11111111111111111111111111111111111111112'),
-      ],
-    },
-  ],
-
-
-
-
-
-
-
-
-
-//  [
-//    'dZ1V9awzQNVRAxDURkivGX98D49nnoV3BcC16aiRCHV',
-//    {
-//      name: 'DeGod #9560',
-//      overviewImageUri: 'https://metadata.degods.com/g/9559-dead.png',
 //      alternatePurchaseMints: [
 //        new PublicKey('So11111111111111111111111111111111111111112'),
 //      ],
-//    },
-//  ],
+    },
+  ],
+  [
+    'HNscf22XXDPt82omw8sYSHAoiqPovm6ZSziD7MGwwv4j',
+    {
+      name: 'Primate #960',
+      overviewImageUri: 'https://bafybeigm2dtupeo4aytbpg5w2zk2fd4x6hvd6bpqc74ono5ud3nfbf24by.ipfs.nftstorage.link/959.png?ext=png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//      ],
+    },
+  ],
+  [
+    'D4K3ToJ7pcPaFfxAP1PqrWa9JpoaoyGijC26P4pShQ3J',
+    {
+      name: '3-NFT Rakkudos',
+      overviewImageUri: '/resources/RAKUDOS-RAFFLE-PRIZE-3-NFT.png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//      ],
+    },
+  ],
+
+  [
+    'dZ1V9awzQNVRAxDURkivGX98D49nnoV3BcC16aiRCHV',
+    {
+      name: 'DeGod #9560',
+      overviewImageUri: 'https://metadata.degods.com/g/9559-dead.png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//      ],
+    },
+  ],
 //  [
 //    '8pw3gjNJNc6fJAGwUeLY8ktmEp8A2cJy4hHVYUnSPEgD',
 //    {
