@@ -87,7 +87,6 @@ const tokenRegistry = {
       'https://raw.githubusercontent.com/ogadwintara/SOSTOKEN/main/logotoken.png',
     tags: [],
   },
-    },
   GaegtumiRRyWzmjmU34okT8wJGSE5UkHCcCsseF2yxiz: {
     chainId: 101,
     address: 'GaegtumiRRyWzmjmU34okT8wJGSE5UkHCcCsseF2yxiz',
