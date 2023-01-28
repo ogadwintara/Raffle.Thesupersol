@@ -87,6 +87,16 @@ const tokenRegistry = {
       'https://raw.githubusercontent.com/ogadwintara/SOSTOKEN/main/logotoken.png',
     tags: [],
   },
+    },
+  GaegtumiRRyWzmjmU34okT8wJGSE5UkHCcCsseF2yxiz: {
+    chainId: 101,
+    address: 'GaegtumiRRyWzmjmU34okT8wJGSE5UkHCcCsseF2yxiz',
+    symbol: 'BULG',
+    name: 'Bulgae',
+    decimals: 9,
+    logoURI: 'https://raw.githubusercontent.com/dodechaedron/Labsbulg/main/bulgae.jpeg',
+    tags: []
+  },
 };
 
 export const tokenInfoMap = new Map(Object.entries(tokenRegistry));
