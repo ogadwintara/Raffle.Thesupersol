@@ -5,6 +5,39 @@ import { TESTING } from './misc';
 const testWhitelist = new Map<string, RaffleMetaData>([
 //  ['2tyFcRqu4dThVJnCsHELjLmaHXvyGmghVtRdT9Bs7Drw', { name: 'TheSuperSOL 3 wl' }],
 
+   [
+   '4JZfysFwAMseh3xTykzzdexdb3LGBxVBu79kkDSZbwuA',
+     {
+      name: '100 $Bulg',
+       overviewImageUri: 'https://raw.githubusercontent.com/dodechaedron/Labsbulg/main/bulgae.jpeg',
+   //   alternatePurchaseMints: [
+  //       new PublicKey('So11111111111111111111111111111111111111112'),
+   //    ],
+   },
+   ],
+   [
+    '2r2Me9rMSwSBdQkfW2i2T3HafzwiWu1ZuziZ1PX34hLN',
+      {
+       name: '200 $Bulg',
+        overviewImageUri: 'https://raw.githubusercontent.com/dodechaedron/Labsbulg/main/bulgae.jpeg',
+   //    alternatePurchaseMints: [
+   //       new PublicKey('So11111111111111111111111111111111111111112'),
+   //     ],
+    },
+    ],
+
+  [
+    'Bumu8zXP9ayRm2UkPSA5EcH8LHJXhpyrcxwEiGnqpwDm',
+    {
+      name: '$Bulg 300',
+      overviewImageUri: 'https://raw.githubusercontent.com/ogadwintara/SOSTOKEN/main/RAKUDOS-RAFFLE-PRIZE-3-NFT.png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+//      ],
+    },
+  ],
+  
+  
   [
     '7W3o5w1KEta5fwhpkpS1U2q7GVKoyJ1i6QR5PsBY5xrJ',
     {
@@ -15,6 +48,7 @@ const testWhitelist = new Map<string, RaffleMetaData>([
 //      ],
     },
   ],
+  
   [
     'HNscf22XXDPt82omw8sYSHAoiqPovm6ZSziD7MGwwv4j',
     {
